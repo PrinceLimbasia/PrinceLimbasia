@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Prince Limbasia  
 
-<!--
-**PrinceLimbasia/PrinceLimbasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **B.Tech CSE Student at Darshan University, Rajkot**  
+💻 Passionate about **Web Development, App Development, and AI/ML**  
+🌍 Dreaming to pursue Master's in Germany 🇩🇪  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Learning
+- Programming: C, C++, Java, Python  
+- Web Dev: HTML, CSS, JavaScript (Learning React & Node.js soon)  
+- Exploring: AI, Machine Learning, Data Science  
+
+---
+
+### 📫 Connect with Me
+- Email: **princelimbasia.dev9@gmail.com**  
+- LinkedIn: (Coming Soon)  
+- GitHub: [PrinceLimbasia](https://github.com/PrinceLimbasia)  
+
+---
+
+⭐️ Always learning, building, and growing!  
